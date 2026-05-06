@@ -1,14 +1,14 @@
 # Trae-Claude-Mem Bridge
 
-将 Trae IDE 会话桥接到 Claude-Mem 长期记忆系统。
+> 将 Trae IDE 会话桥接到 Claude-Mem 长期记忆系统
 
-## ⚠️ 项目状态：探索性研究
+## 项目状态：探索性研究
 
 这是一个**技术复盘项目**，而非可用的最终产品。
 
 **核心结论**：由于 Trae 与 Claude CLI 的架构差异（Trae 没有 Hooks 系统），目前无法实现 100% 自动化的记忆集成。详细分析请参阅：
 
-**[📄 完整复盘文章](./docs/trae-claude-mem-integration-postmortem.md)**
+**[完整复盘文章](./docs/trae-claude-mem-integration-postmortem.md)**
 
 ## 架构
 
@@ -21,7 +21,7 @@ Trae IDE ──[MCP]──▶ trae_claude_mem_bridge ──[HTTP]──▶ Claud
 ### 前置要求
 
 - [Claude-Mem](https://github.com/thedotmack/claude-mem) 已安装并运行
-- Bun runtime (`bun --version`)
+- Bun runtime
 - Python 3.8+
 
 ### 配置
