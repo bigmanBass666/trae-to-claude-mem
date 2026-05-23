@@ -1,10 +1,10 @@
 # Trae-Claude-Mem
 
-> 🌐 [Oh My Trae](https://github.com/bigmanBass666/oh-my-trae) 生态导航
+> 🌐 [Oh My Trae](https://github.com/oh-my-trae/oh-my-trae) 生态导航
 >
 > | 🔓 解密 | 💾 记忆 | 🛠️ 解锁 | 🤖 Solo |
 > |---------|---------|----------|---------|
-> | [trae-db-decrypt](https://github.com/bigmanBass666/trae-db-decrypt) | **trae-to-claude-mem** | [trae-unlock](https://github.com/bigmanBass666/trae-unlock) | [trae-solo-unlock](https://github.com/bigmanBass666/trae-solo-unlock) |
+> | [trae-db-decrypt](https://github.com/oh-my-trae/trae-db-decrypt) | **trae-to-claude-mem** | [trae-unlock](https://github.com/oh-my-trae/trae-unlock) | [trae-solo-unlock](https://github.com/oh-my-trae/trae-solo-unlock) |
 
 将 Trae IDE 的历史聊天记录导入 [claude-mem](https://github.com/thedotmack/claude-mem) 记忆系统。
 
